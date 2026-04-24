@@ -1,16 +1,16 @@
-## Hi there 👋
+<center>
 
-<!--
-**TheOverwhelmingDeceitItself/TheOverwhelmingDeceitItself** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# *G R E E T I N G S*
 
-Here are some ideas to get you started:
+<img src="Untitled185_20260425051414.png" width="500">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**cuddle me anytime you feel**
+
+* no worries, you can cuddle me even if my friends are with me, I don't mind having a pile of cuddles.
+  + I don't mind if you hide behind me.
+  + you are always welcome to come back to me.
+  + I am here to listen but remember. I might not be the best at comforting—I will gladly listen.
+  + and no you are not annoying, you are worthy.
+  + I will be here when needed.
+  + you are safe with me.
+  + ***use me***
