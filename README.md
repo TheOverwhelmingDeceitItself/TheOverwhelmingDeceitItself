@@ -16,6 +16,4 @@
   + I will be here when needed.
   + you are safe with me.
   + ***use me***
- 
-    **HERE'S MY ATABOOK**
-   " dreamysaman.atabook.org "
+
