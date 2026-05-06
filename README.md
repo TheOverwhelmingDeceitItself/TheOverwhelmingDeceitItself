@@ -2,21 +2,34 @@
 
 # *WELCOME!*
 
+<p align="center"> 
+Art by me<br>
+
 <img src="Untitled107_20260311150958.png" width="500">
 
-**cuddle me anytime you feel lonely**
-
-*IF YOU SEE ME IN DNIUF OR DNTUF, IGNORE IT. I JUST FEEL LONELY TO THE POINT I TRY TO PUSH PEOPLE 💔*
+<p align="center">
+  <strong>Cuddle me anytime you feel lonely.</strong>
+</p>
 
 <p align="center">
-<a href="https://dreamysaman.atabook.org">atabook</a>
+  <em>If you see me in DNIUF or DNTUF, please ignore it. Sometimes I feel lonely enough that I push people away. 💔</em>
+</p>
 
-* remind that I will always update this whenever I wanted to change something.
-* no worries, you can cuddle me even if my friends are with me, I don't mind having a pile of cuddles.
-  + I don't mind if you hide behind me.
-  + you are always welcome to come back to me.
-  + I am here to listen but remember. I might not be the best at comforting—I will gladly listen.
-  + and no you are not annoying, you are worthy.
-  + I will be here when needed.
-  + you are safe with me.
-  + ***use me***
+<p align="center">
+  <a href="https://dreamysaman.atabook.org">Atabook</a>
+</p>
+
+<p align="center">
+  I will update this whenever I want to change something.<br>
+  Don't worry, you can cuddle me even if my friends are around. I don't mind a pile of cuddles.
+</p>
+
+<p align="center">
+  You can hide behind me.<br>
+  You are always welcome to come back to me.<br>
+  I am here to listen. I may not be the best at comforting, but I will always listen.<br>
+  You are not annoying, you are worthy.<br>
+  I will be here when needed.<br>
+  You are safe with me.<br>
+  <strong><em>Use me.</em></strong>
+</p>
