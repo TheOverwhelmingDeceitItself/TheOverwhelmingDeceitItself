@@ -81,6 +81,9 @@ Art by me<br>
 
 **PLEASE DO NOT HARASS ME FOR LIKING THESE SHIPS, MOST OF MY SHIPS ARE MY COMFORT.**
 
+ + *hyperkatana* (phighting)
+ + *medhammer* (phighting)
+ + *Hyperhammer* (phighting*
  + *Doublefeodora* (frsaken)
  + *fruitcake* (Dw)
  + *slimeking* (SFAWTDE minecraft) 
