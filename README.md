@@ -3,9 +3,9 @@
 # *WELCOME!*
 
 <p align="center"> 
-Art by me<br>
+Art by me<br> 
 
-<img src="Untitled107_20260311150958.png" width="500">
+<img src="Untitled201_20260524075857.png" width="500">
 
 <p align="center">
   <strong>Cuddle me anytime you feel lonely.</strong>
