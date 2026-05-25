@@ -12,7 +12,7 @@ Art by me<br>
 </p>
 
 <p align="center">
-  <em>If you see me in DNIUF or DNTUF, please ignore it. Sometimes I feel lonely enough that I push people away. 💔</em>
+  <em> Would you still forgive me </em>
 </p>
 
 <p align="center">
