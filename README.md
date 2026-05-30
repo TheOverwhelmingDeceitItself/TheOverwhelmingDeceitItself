@@ -2,17 +2,12 @@
 
 # *Greetings.*
 
-<p align="center"> 
-Art by me<br> 
-
-<img src="Untitled201_20260524075857.png" width="500">
-
 <p align="center">
-  <strong> I have learned more lessons </strong>
+  <strong> I have learned a lot from different kinds of people. </strong>
 </p>
 
 <p align="center">
-  <em> all blame sweet </em>
+  <em> all blame sweet. </em>
 </p>
 
 <p align="center">
@@ -23,7 +18,7 @@ Art by me<br>
   I will update this whenever I want to change something.<br>
 
 
-**These are clickable**
+# **These are clickable**
 
 <details>
 <summary><u>Something About Me</u></summary>
