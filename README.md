@@ -1,6 +1,6 @@
 <center>
 
-# *WELCOME!*
+# *Greetings.*
 
 <p align="center"> 
 Art by me<br> 
@@ -8,11 +8,11 @@ Art by me<br>
 <img src="Untitled201_20260524075857.png" width="500">
 
 <p align="center">
-  <strong>Cuddle me anytime you feel lonely.</strong>
+  <strong> I have learned more lessons </strong>
 </p>
 
 <p align="center">
-  <em> Would you still forgive me </em>
+  <em> all blame sweet </em>
 </p>
 
 <p align="center">
@@ -21,8 +21,7 @@ Art by me<br>
 
 <p align="center">
   I will update this whenever I want to change something.<br>
-  Don't worry, you can cuddle me even if my friends are around. I don't mind a pile of cuddles.
-</p>
+
 
 **These are clickable**
 
