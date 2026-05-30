@@ -1,13 +1,13 @@
 <center>
 
-# *Greetings.*
+# *𝐺𝑟𝑒𝑒𝑡𝑖𝑛𝑔𝑠.*
 
 <p align="center">
-  <strong> I have learned a lot from different kinds of people. </strong>
+  <strong> 𝐼 ℎ𝑎𝑣𝑒 𝑙𝑒𝑎𝑟𝑛𝑒𝑑 𝑎 𝑙𝑜𝑡 𝑓𝑟𝑜𝑚 𝑑𝑖𝑓𝑓𝑒𝑟𝑒𝑛𝑡 𝑘𝑖𝑛𝑑𝑠 𝑂𝑓 𝑃𝑒𝑜𝑝𝑙𝑒. </strong>
 </p>
 
 <p align="center">
-  <em> all blame sweet. </em>
+  <em> A̶L̶L̶ B̶L̶A̶M̶E̶ S̶W̶E̶E̶T̶.̶ </em>
 </p>
 
 <p align="center">
@@ -15,13 +15,14 @@
 </p>
 
 <p align="center">
-  I will update this whenever I want to change something.<br>
+  𝑖 𝑤𝑖𝑙𝑙 𝑢𝑝𝑑𝑎𝑡𝑒 𝑡ℎ𝑖𝑠 𝑤ℎ𝑒𝑛𝑒𝑣𝑒𝑟 𝑖 𝑤𝑎𝑛𝑡 𝑡𝑜 𝑐ℎ𝑎𝑛𝑔𝑒 𝑠𝑜𝑚𝑒𝑡ℎ𝑖𝑛𝑔. <br>
 
 
-# **These are clickable**
+# 𝑻𝒉𝒆𝒔𝒆 𝒂𝒓𝒆 𝒄𝒍𝒊𝒄𝒌𝒂𝒃𝒍𝒆
 
 <details>
-<summary><u>Something About Me</u></summary>
+<summary><u>𝘴𝘰𝘮𝘦𝘵𝘩𝘪𝘯𝘨 𝘢𝘣𝘰𝘶𝘵 𝘮𝘦</u>
+</summary>
 
   Just a few 
 
@@ -38,7 +39,7 @@
 </details>
 
 <details>
-  <summary><u> DO NOT INTERACT </u></summary>
+  <summary><u> 𝘋𝘖 𝘕𝘖𝘛 𝘐𝘕𝘛𝘌𝘙𝘈𝘊𝘛 </u></summary>
 
 - People who invalidate mental health struggles.
 - Anyone who disrespects boundaries after being told no.
@@ -57,7 +58,7 @@
 
 
 <details>
-  <summary><u> DO INTERACT </u></summary>
+  <summary><u> 𝘋𝘖 𝘐𝘕𝘛𝘌𝘙𝘈𝘊𝘛 </u></summary>
   
 - Anyone here for fun, comfort, creativity, and community.
 - Fans who enjoy headcanons, AUs, redesigns, and theories!
@@ -71,13 +72,13 @@
 </details>
 
 <details>
-  <summary><u> SHIPS THAT I LIKE </u></summary>
+  <summary><u> 𝘚𝘏𝘐𝘗𝘚 𝘛𝘏𝘈𝘛 𝘐 𝘓𝘐𝘒𝘌 </u></summary>
 
 **PLEASE DO NOT HARASS ME FOR LIKING THESE SHIPS, MOST OF MY SHIPS ARE MY COMFORT.**
 
  + *hyperkatana* (phighting)
  + *medhammer* (phighting)
- + *Hyperhammer* (phighting*
+ + *Hyperhammer* (Phighting) 
  + *Doublefeodora* (frsaken)
  + *fruitcake* (Dw)
  + *slimeking* (SFAWTDE minecraft) 
