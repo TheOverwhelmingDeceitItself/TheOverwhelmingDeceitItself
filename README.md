@@ -87,6 +87,7 @@
  + *cubeblixer* (SAB)
  + *slimeknight* (SFAWTDE minecraft)
  + *Noli7n7* (frsaken)
+ + *Adminvirus* (roblox/frsaken)
  + *Poisoncoin* (frsaken)
  + *PoisonApple* (TFC)
  + *Doctortaker* (TFC)
@@ -97,4 +98,8 @@
 
 </details>
 
-pending . . .
+
+𝙏𝙧𝙪𝙨𝙩𝙞𝙣𝙜 𝘱𝘦𝘰𝘱𝘭𝘦 𝘦𝘢𝘴𝘪𝘭𝘺 𝘮𝘢𝘥𝘦 𝘮𝘦 𝘳𝘦𝘢𝘭𝘪𝘻𝘦 𝘵𝘩𝘢𝘵 𝘵𝘩𝘦𝘺'𝘭𝘭 𝘵𝘢𝘬𝘦 𝘢𝘥𝘷𝘢𝘯𝘵𝘢𝘨𝘦 𝘰𝘧 𝘵𝘩𝘢𝘵 𝙩𝙧𝙪𝙨𝙩. 
+
+
+# 𝘚𝘵𝘪𝘭𝘭 𝘪𝘯 𝘱𝘳𝘰𝘨𝘳𝘦𝘴𝘴. 
