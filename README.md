@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em> A̶L̶L̶ B̶L̶A̶M̶E̶ A̶C̶H̶O̶R̶.̶ </em>
+  <em> A̶L̶L̶ B̶L̶A̶M̶E̶ A̶B̶Y̶S̶S̶.̶ </em>
 </p>
 
 <p align="center">
