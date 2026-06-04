@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <em> A̶L̶L̶ B̶L̶A̶M̶E̶ S̶W̶E̶E̶T̶.̶ </em>
+  <em> A̶L̶L̶ B̶L̶A̶M̶E̶ A̶C̶H̶O̶R̶.̶ </em>
 </p>
 
 <p align="center">
@@ -89,8 +89,7 @@
  + *silentfaerie* (crk)
  + *cubeblixer* (SAB)
  + *slimeknight* (SFAWTDE minecraft)
- + *Noli7n7* (frsaken)
- + *Adminvirus* (roblox/frsaken)
+ + *Noli7n7* (frsaken) 
  + *Poisoncoin* (frsaken)
  + *PoisonApple* (TFC)
  + *Doctortaker* (TFC)
