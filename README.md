@@ -90,7 +90,8 @@
  + *silentfaerie* (crk)
  + *cubeblixer* (SAB)
  + *slimeknight* (SFAWTDE minecraft)
- + *Noli7n7* (frsaken) 
+ + *Noli7n7* (frsaken)
+ + *ManipulativeBlood* (frksaken) "SpectreXnosferatu"
  + *Poisoncoin* (frsaken)
  + *PoisonApple* (TFC)
  + *Doctortaker* (TFC)
